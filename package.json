@@ -1,0 +1,7 @@
+{
+  "name":"amar-str-vercel",
+  "version":"4.0.0",
+  "private":true,
+  "engines":{"node":">=18"},
+  "dependencies":{"@supabase/supabase-js":"^2.58.0"}
+}
